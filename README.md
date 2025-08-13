@@ -28,7 +28,7 @@ megamart_dashboard.pdf                  # Dashboard export
 ### 1. **Product Category Performance**
 - **Electronics** leads with the highest total sales ($104,870.26) and 79 products
 - **Furniture** follows closely with $102,547.52 in sales across 88 products
-- **Clothing** generates $94,851.93 from 71 products
+- **Clothing** contributes $94,851.93 from 71 products
 - **Groceries** contributes $89,539.42 from 62 products
 
 ### 2. **Regional Sales Distribution**
@@ -40,7 +40,7 @@ megamart_dashboard.pdf                  # Dashboard export
 ### 3. **Customer Segment Analysis**
 - **Corporate** customers show the highest average profit margin at 18.20%
 - **Retail** customers have a 17.56% profit margin
-- **Wholesale** customers maintain a 17.55% profit margin
+- **Wholesale** customers have a 17.55% profit margin
 
 ### 4. **Sales vs. Profit Correlation**
 - Strong positive correlation (0.8219) between Total Sales and Profit Amount
