@@ -9,6 +9,18 @@ This project contains a comprehensive analysis of Mega Mart's sales performance 
 - **Product Details**: Category, Name, Quantity, Unit Price
 - **Financial Metrics**: Total Sales, Profit Amount, Profit Margin
 
+## Project Files
+
+```
+megamart_sales_analysis.ipynb          # Exploratory data analysis 
+megamart_sales_data_cleaning.ipynb     # Data cleaning and preprocessing
+megamart_sales_cleaned_data.csv        # Cleaned dataset
+megamart_sales.db                      # SQLite database
+Megamart_Sales_Performance_Dataset.xlsx # Original dataset
+megamart_dashboard.pbix                # Power BI dashboard
+megamart_dashboard.pdf                 # Dashboard export
+```
+
 ## Key Findings
 
 ### 1. **Product Category Performance**
@@ -41,18 +53,6 @@ This project contains a comprehensive analysis of Mega Mart's sales performance 
 - **Cash** payments have the second-highest completion rate
 - **Bank Transfer** and **Credit Card** show higher cancellation rates
 
-## Project Structure
-
-```
-Mega Mart Sales/
-├── megamart_sales_analysis.ipynb          # Exploratory data analysis 
-├── megamart_sales_data_cleaning.ipynb     # Data cleaning and preprocessing
-├── megamart_sales_cleaned_data.csv        # Cleaned dataset
-├── megamart_sales.db                      # SQLite database
-├── Megamart_Sales_Performance_Dataset.xlsx # Original dataset
-├── megamart_dashboard.pbix                # Power BI dashboard
-└── megamart_dashboard.pdf                 # Dashboard export
-```
 
 ## Analysis Methodology
 
@@ -60,11 +60,12 @@ Mega Mart Sales/
 - **Dataset Size**: 300 records with 15 columns
 - **Data Quality**: No missing values or duplicates detected
 - **Data Types**: Properly formatted with datetime, numeric, and categorical variables
+- **Data Validation**: Recalculated Total Sales and Profit Amount and removed invalid numerical data
 
 ### Analytical Approach
 1. **Descriptive Statistics**: Category-wise performance analysis
 2. **Regional Analysis**: Geographic sales distribution
-3. **Temporal Analysis**: Monthly and daily sales patterns
+3. **Time-based Analysis**: Monthly and daily sales patterns
 4. **Customer Segmentation**: Profitability by customer type
 5. **Correlation Analysis**: Sales-profit relationship
 6. **Payment Analysis**: Order completion rates by payment method
@@ -104,3 +105,5 @@ The Power BI dashboard provides interactive visualizations for:
 - Sales performance by category and region
 - Sales peformance of products
 - Sales trends over time
+
+
