@@ -12,13 +12,13 @@ This project contains a comprehensive analysis of Mega Mart's sales performance 
 ## Project Files
 
 ```
-megamart_sales_analysis.ipynb          # Exploratory data analysis 
-megamart_sales_data_cleaning.ipynb     # Data cleaning and preprocessing
-megamart_sales_cleaned_data.csv        # Cleaned dataset
-megamart_sales.db                      # SQLite database
+megamart_sales_analysis.ipynb           # Exploratory data analysis 
+megamart_sales_data_cleaning.ipynb      # Data cleaning and preprocessing
+megamart_sales_cleaned_data.csv         # Cleaned dataset
+megamart_sales.db                       # SQLite database
 Megamart_Sales_Performance_Dataset.xlsx # Original dataset
-megamart_dashboard.pbix                # Power BI dashboard
-megamart_dashboard.pdf                 # Dashboard export
+megamart_dashboard.pbix                 # Power BI dashboard
+megamart_dashboard.pdf                  # Dashboard export
 ```
 
 ## Key Findings
