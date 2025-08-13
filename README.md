@@ -3,12 +3,6 @@
 ## Project Overview
 This project contains a comprehensive analysis of Mega Mart's sales performance data, providing insights into product performance, regional sales patterns, customer behavior, and profitability metrics. The analysis covers 300 sales transactions across multiple product categories, regions, and customer segments.
 
-### Dataset Overview
-- **Order Information**: Order ID, Date, Status
-- **Customer Data**: Customer ID, Name, Segment, Region
-- **Product Details**: Category, Name, Quantity, Unit Price
-- **Financial Metrics**: Total Sales, Profit Amount, Profit Margin
-
 ## Project Files
 
 ```
@@ -20,6 +14,14 @@ Megamart_Sales_Performance_Dataset.xlsx # Original dataset
 megamart_dashboard.pbix                 # Power BI dashboard
 megamart_dashboard.pdf                  # Dashboard export
 ```
+
+
+### Dataset Overview
+- **Order Information**: Order ID, Date, Status
+- **Customer Data**: Customer ID, Name, Segment, Region
+- **Product Details**: Category, Name, Quantity, Unit Price
+- **Financial Metrics**: Total Sales, Profit Amount, Profit Margin
+
 
 ## Key Findings
 
